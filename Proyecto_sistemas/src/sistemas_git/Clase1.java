@@ -7,6 +7,7 @@ public class Clase1 {
 		
 		System.out.println("Adiosx world");
 		System.out.println(1+1); //suma		
+
 	}
 
 }
